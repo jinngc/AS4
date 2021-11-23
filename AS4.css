@@ -51,7 +51,7 @@ p{
     background-size: 50%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 100vh;
+    height: 120vh;
     background-position: right;
 }
 
@@ -61,7 +61,7 @@ p{
     background-position: fixed;
     font-size: 20px;
     width: 50%;
-    height: 100vh;
+    height: 120vh;
     font-family: "PMingLiU";
     text-align: center;
     padding-top: 5%;
